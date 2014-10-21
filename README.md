@@ -1,4 +1,4 @@
-dirty-bit
+Dirty Bit
 =
 
 Dirty Bit is expected to work as a [sampler (music)][1]. It is being implemented on iOS device with [The Amazing Audio Engine](http://theamazingaudioengine.com/) framework.
