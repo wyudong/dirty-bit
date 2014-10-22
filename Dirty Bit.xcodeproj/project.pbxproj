@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BF14BD4919ED69D700097FEA /* OdetoJoy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF14BD4819ED69D700097FEA /* OdetoJoy.mp3 */; };
 		BF14BD5D19ED8F1600097FEA /* AEExpanderFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = BF14BD4C19ED8F1600097FEA /* AEExpanderFilter.m */; };
 		BF14BD5E19ED8F1600097FEA /* AELimiter.m in Sources */ = {isa = PBXBuildFile; fileRef = BF14BD4E19ED8F1600097FEA /* AELimiter.m */; };
 		BF14BD5F19ED8F1600097FEA /* AELimiterFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = BF14BD5019ED8F1600097FEA /* AELimiterFilter.m */; };
@@ -17,33 +16,35 @@
 		BF14BD6319ED8F1600097FEA /* README.markdown in Resources */ = {isa = PBXBuildFile; fileRef = BF14BD5819ED8F1600097FEA /* README.markdown */; };
 		BF14BD6419ED8F1600097FEA /* TPCircularBuffer+AudioBufferList.c in Sources */ = {isa = PBXBuildFile; fileRef = BF14BD5919ED8F1600097FEA /* TPCircularBuffer+AudioBufferList.c */; };
 		BF14BD6519ED8F1600097FEA /* TPCircularBuffer.c in Sources */ = {isa = PBXBuildFile; fileRef = BF14BD5B19ED8F1600097FEA /* TPCircularBuffer.c */; };
+		BF26827A19F7813F0073B50B /* DoReMi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF26825C19F7813F0073B50B /* DoReMi.mp3 */; };
+		BF26827B19F7813F0073B50B /* DoubleBassA3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26825E19F7813F0073B50B /* DoubleBassA3.wav */; };
+		BF26827C19F7813F0073B50B /* DoubleBassB3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26825F19F7813F0073B50B /* DoubleBassB3.wav */; };
+		BF26827D19F7813F0073B50B /* DoubleBassC3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826019F7813F0073B50B /* DoubleBassC3.wav */; };
+		BF26827E19F7813F0073B50B /* DoubleBassC4.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826119F7813F0073B50B /* DoubleBassC4.wav */; };
+		BF26827F19F7813F0073B50B /* DoubleBassD3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826219F7813F0073B50B /* DoubleBassD3.wav */; };
+		BF26828019F7813F0073B50B /* DoubleBassE3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826319F7813F0073B50B /* DoubleBassE3.wav */; };
+		BF26828119F7813F0073B50B /* DoubleBassF3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826419F7813F0073B50B /* DoubleBassF3.wav */; };
+		BF26828219F7813F0073B50B /* DoubleBassG3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826519F7813F0073B50B /* DoubleBassG3.wav */; };
+		BF26828319F7813F0073B50B /* OdetoJoy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF26826619F7813F0073B50B /* OdetoJoy.mp3 */; };
+		BF26828419F7813F0073B50B /* Do.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826819F7813F0073B50B /* Do.wav */; };
+		BF26828519F7813F0073B50B /* Fa.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826919F7813F0073B50B /* Fa.wav */; };
+		BF26828619F7813F0073B50B /* HigherDo.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826A19F7813F0073B50B /* HigherDo.wav */; };
+		BF26828719F7813F0073B50B /* La.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826B19F7813F0073B50B /* La.wav */; };
+		BF26828819F7813F0073B50B /* Mi.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826C19F7813F0073B50B /* Mi.wav */; };
+		BF26828919F7813F0073B50B /* Re.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826D19F7813F0073B50B /* Re.wav */; };
+		BF26828A19F7813F0073B50B /* So.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826E19F7813F0073B50B /* So.wav */; };
+		BF26828B19F7813F0073B50B /* Ti.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26826F19F7813F0073B50B /* Ti.wav */; };
+		BF26828C19F7813F0073B50B /* Bump.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26827119F7813F0073B50B /* Bump.wav */; };
+		BF26828D19F7813F0073B50B /* Coin.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26827219F7813F0073B50B /* Coin.wav */; };
+		BF26828E19F7813F0073B50B /* Flagpole.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26827319F7813F0073B50B /* Flagpole.wav */; };
+		BF26828F19F7813F0073B50B /* Jump.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26827419F7813F0073B50B /* Jump.wav */; };
+		BF26829019F7813F0073B50B /* MarioDie.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26827519F7813F0073B50B /* MarioDie.wav */; };
+		BF26829119F7813F0073B50B /* PowerUp.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26827619F7813F0073B50B /* PowerUp.wav */; };
+		BF26829219F7813F0073B50B /* StageClear.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26827719F7813F0073B50B /* StageClear.wav */; };
+		BF26829319F7813F0073B50B /* Stomp.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF26827819F7813F0073B50B /* Stomp.wav */; };
+		BF26829419F7813F0073B50B /* SuperMarioBrosFull.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF26827919F7813F0073B50B /* SuperMarioBrosFull.mp3 */; };
+		BF26829719F781870073B50B /* UIButton+DBPad.m in Sources */ = {isa = PBXBuildFile; fileRef = BF26829619F781870073B50B /* UIButton+DBPad.m */; };
 		BF30598C19E918AC00E2BCC1 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF30598B19E918AC00E2BCC1 /* AVFoundation.framework */; };
-		BF6F643C19F3B53B009E0475 /* DoReMi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF6F643B19F3B53B009E0475 /* DoReMi.mp3 */; };
-		BF6F644619F3B545009E0475 /* DoubleBassA3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F643E19F3B545009E0475 /* DoubleBassA3.wav */; };
-		BF6F644719F3B545009E0475 /* DoubleBassB3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F643F19F3B545009E0475 /* DoubleBassB3.wav */; };
-		BF6F644819F3B545009E0475 /* DoubleBassC3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F644019F3B545009E0475 /* DoubleBassC3.wav */; };
-		BF6F644919F3B545009E0475 /* DoubleBassC4.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F644119F3B545009E0475 /* DoubleBassC4.wav */; };
-		BF6F644A19F3B545009E0475 /* DoubleBassD3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F644219F3B545009E0475 /* DoubleBassD3.wav */; };
-		BF6F644B19F3B545009E0475 /* DoubleBassE3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F644319F3B545009E0475 /* DoubleBassE3.wav */; };
-		BF6F644C19F3B545009E0475 /* DoubleBassF3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F644419F3B545009E0475 /* DoubleBassF3.wav */; };
-		BF6F644D19F3B545009E0475 /* DoubleBassG3.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F644519F3B545009E0475 /* DoubleBassG3.wav */; };
-		BF6F646B19F3B57C009E0475 /* Bump.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F646219F3B57C009E0475 /* Bump.wav */; };
-		BF6F646C19F3B57C009E0475 /* Coin.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F646319F3B57C009E0475 /* Coin.wav */; };
-		BF6F646D19F3B57C009E0475 /* Flagpole.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F646419F3B57C009E0475 /* Flagpole.wav */; };
-		BF6F646E19F3B57C009E0475 /* Jump.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F646519F3B57C009E0475 /* Jump.wav */; };
-		BF6F646F19F3B57C009E0475 /* MarioDie.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F646619F3B57C009E0475 /* MarioDie.wav */; };
-		BF6F647019F3B57C009E0475 /* PowerUp.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F646719F3B57C009E0475 /* PowerUp.wav */; };
-		BF6F647119F3B57C009E0475 /* StageClear.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F646819F3B57C009E0475 /* StageClear.wav */; };
-		BF6F647219F3B57C009E0475 /* Stomp.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F646919F3B57C009E0475 /* Stomp.wav */; };
-		BF6F647E19F3B61B009E0475 /* Do.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F647619F3B61B009E0475 /* Do.wav */; };
-		BF6F647F19F3B61B009E0475 /* Fa.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F647719F3B61B009E0475 /* Fa.wav */; };
-		BF6F648019F3B61B009E0475 /* HigherDo.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F647819F3B61B009E0475 /* HigherDo.wav */; };
-		BF6F648119F3B61B009E0475 /* La.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F647919F3B61B009E0475 /* La.wav */; };
-		BF6F648219F3B61B009E0475 /* Mi.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F647A19F3B61B009E0475 /* Mi.wav */; };
-		BF6F648319F3B61B009E0475 /* Re.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F647B19F3B61B009E0475 /* Re.wav */; };
-		BF6F648419F3B61B009E0475 /* So.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F647C19F3B61B009E0475 /* So.wav */; };
-		BF6F648519F3B61B009E0475 /* Ti.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF6F647D19F3B61B009E0475 /* Ti.wav */; };
-		BF6F648919F3DFAE009E0475 /* SuperMarioBrosFull.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF6F648819F3DFAE009E0475 /* SuperMarioBrosFull.mp3 */; };
 		BFADCF3919EA8A490061620A /* libTheAmazingAudioEngine.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BFADCF3619EA8A200061620A /* libTheAmazingAudioEngine.a */; };
 		BFADCF3B19EA8A5C0061620A /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFADCF3A19EA8A5C0061620A /* AudioToolbox.framework */; };
 		BFADCF3D19EA8A630061620A /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFADCF3C19EA8A630061620A /* Accelerate.framework */; };
@@ -62,7 +63,6 @@
 		BFC262B619E66C73007535BB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFC2629519E66C73007535BB /* UIKit.framework */; };
 		BFC262BE19E66C73007535BB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BFC262BC19E66C73007535BB /* InfoPlist.strings */; };
 		BFC262C019E66C73007535BB /* Dirty_BitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BFC262BF19E66C73007535BB /* Dirty_BitTests.m */; };
-		BFC262CB19E66CA9007535BB /* UIButton+DBPad.m in Sources */ = {isa = PBXBuildFile; fileRef = BFC262CA19E66CA9007535BB /* UIButton+DBPad.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -90,7 +90,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BF14BD4819ED69D700097FEA /* OdetoJoy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = OdetoJoy.mp3; sourceTree = "<group>"; };
 		BF14BD4B19ED8F1600097FEA /* AEExpanderFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AEExpanderFilter.h; sourceTree = "<group>"; };
 		BF14BD4C19ED8F1600097FEA /* AEExpanderFilter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AEExpanderFilter.m; sourceTree = "<group>"; };
 		BF14BD4D19ED8F1600097FEA /* AELimiter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AELimiter.h; sourceTree = "<group>"; };
@@ -108,33 +107,36 @@
 		BF14BD5A19ED8F1600097FEA /* TPCircularBuffer+AudioBufferList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TPCircularBuffer+AudioBufferList.h"; sourceTree = "<group>"; };
 		BF14BD5B19ED8F1600097FEA /* TPCircularBuffer.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = TPCircularBuffer.c; sourceTree = "<group>"; };
 		BF14BD5C19ED8F1600097FEA /* TPCircularBuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPCircularBuffer.h; sourceTree = "<group>"; };
+		BF26825C19F7813F0073B50B /* DoReMi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DoReMi.mp3; sourceTree = "<group>"; };
+		BF26825E19F7813F0073B50B /* DoubleBassA3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassA3.wav; sourceTree = "<group>"; };
+		BF26825F19F7813F0073B50B /* DoubleBassB3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassB3.wav; sourceTree = "<group>"; };
+		BF26826019F7813F0073B50B /* DoubleBassC3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassC3.wav; sourceTree = "<group>"; };
+		BF26826119F7813F0073B50B /* DoubleBassC4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassC4.wav; sourceTree = "<group>"; };
+		BF26826219F7813F0073B50B /* DoubleBassD3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassD3.wav; sourceTree = "<group>"; };
+		BF26826319F7813F0073B50B /* DoubleBassE3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassE3.wav; sourceTree = "<group>"; };
+		BF26826419F7813F0073B50B /* DoubleBassF3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassF3.wav; sourceTree = "<group>"; };
+		BF26826519F7813F0073B50B /* DoubleBassG3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassG3.wav; sourceTree = "<group>"; };
+		BF26826619F7813F0073B50B /* OdetoJoy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = OdetoJoy.mp3; sourceTree = "<group>"; };
+		BF26826819F7813F0073B50B /* Do.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Do.wav; sourceTree = "<group>"; };
+		BF26826919F7813F0073B50B /* Fa.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Fa.wav; sourceTree = "<group>"; };
+		BF26826A19F7813F0073B50B /* HigherDo.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = HigherDo.wav; sourceTree = "<group>"; };
+		BF26826B19F7813F0073B50B /* La.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = La.wav; sourceTree = "<group>"; };
+		BF26826C19F7813F0073B50B /* Mi.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Mi.wav; sourceTree = "<group>"; };
+		BF26826D19F7813F0073B50B /* Re.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Re.wav; sourceTree = "<group>"; };
+		BF26826E19F7813F0073B50B /* So.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = So.wav; sourceTree = "<group>"; };
+		BF26826F19F7813F0073B50B /* Ti.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Ti.wav; sourceTree = "<group>"; };
+		BF26827119F7813F0073B50B /* Bump.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Bump.wav; sourceTree = "<group>"; };
+		BF26827219F7813F0073B50B /* Coin.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Coin.wav; sourceTree = "<group>"; };
+		BF26827319F7813F0073B50B /* Flagpole.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Flagpole.wav; sourceTree = "<group>"; };
+		BF26827419F7813F0073B50B /* Jump.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Jump.wav; sourceTree = "<group>"; };
+		BF26827519F7813F0073B50B /* MarioDie.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MarioDie.wav; sourceTree = "<group>"; };
+		BF26827619F7813F0073B50B /* PowerUp.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = PowerUp.wav; sourceTree = "<group>"; };
+		BF26827719F7813F0073B50B /* StageClear.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = StageClear.wav; sourceTree = "<group>"; };
+		BF26827819F7813F0073B50B /* Stomp.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Stomp.wav; sourceTree = "<group>"; };
+		BF26827919F7813F0073B50B /* SuperMarioBrosFull.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = SuperMarioBrosFull.mp3; sourceTree = "<group>"; };
+		BF26829519F781870073B50B /* UIButton+DBPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+DBPad.h"; sourceTree = "<group>"; };
+		BF26829619F781870073B50B /* UIButton+DBPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+DBPad.m"; sourceTree = "<group>"; };
 		BF30598B19E918AC00E2BCC1 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
-		BF6F643B19F3B53B009E0475 /* DoReMi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DoReMi.mp3; sourceTree = "<group>"; };
-		BF6F643E19F3B545009E0475 /* DoubleBassA3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassA3.wav; sourceTree = "<group>"; };
-		BF6F643F19F3B545009E0475 /* DoubleBassB3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassB3.wav; sourceTree = "<group>"; };
-		BF6F644019F3B545009E0475 /* DoubleBassC3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassC3.wav; sourceTree = "<group>"; };
-		BF6F644119F3B545009E0475 /* DoubleBassC4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassC4.wav; sourceTree = "<group>"; };
-		BF6F644219F3B545009E0475 /* DoubleBassD3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassD3.wav; sourceTree = "<group>"; };
-		BF6F644319F3B545009E0475 /* DoubleBassE3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassE3.wav; sourceTree = "<group>"; };
-		BF6F644419F3B545009E0475 /* DoubleBassF3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassF3.wav; sourceTree = "<group>"; };
-		BF6F644519F3B545009E0475 /* DoubleBassG3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DoubleBassG3.wav; sourceTree = "<group>"; };
-		BF6F646219F3B57C009E0475 /* Bump.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Bump.wav; sourceTree = "<group>"; };
-		BF6F646319F3B57C009E0475 /* Coin.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Coin.wav; sourceTree = "<group>"; };
-		BF6F646419F3B57C009E0475 /* Flagpole.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Flagpole.wav; sourceTree = "<group>"; };
-		BF6F646519F3B57C009E0475 /* Jump.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Jump.wav; sourceTree = "<group>"; };
-		BF6F646619F3B57C009E0475 /* MarioDie.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MarioDie.wav; sourceTree = "<group>"; };
-		BF6F646719F3B57C009E0475 /* PowerUp.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = PowerUp.wav; sourceTree = "<group>"; };
-		BF6F646819F3B57C009E0475 /* StageClear.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = StageClear.wav; sourceTree = "<group>"; };
-		BF6F646919F3B57C009E0475 /* Stomp.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Stomp.wav; sourceTree = "<group>"; };
-		BF6F647619F3B61B009E0475 /* Do.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Do.wav; sourceTree = "<group>"; };
-		BF6F647719F3B61B009E0475 /* Fa.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Fa.wav; sourceTree = "<group>"; };
-		BF6F647819F3B61B009E0475 /* HigherDo.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = HigherDo.wav; sourceTree = "<group>"; };
-		BF6F647919F3B61B009E0475 /* La.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = La.wav; sourceTree = "<group>"; };
-		BF6F647A19F3B61B009E0475 /* Mi.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Mi.wav; sourceTree = "<group>"; };
-		BF6F647B19F3B61B009E0475 /* Re.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Re.wav; sourceTree = "<group>"; };
-		BF6F647C19F3B61B009E0475 /* So.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = So.wav; sourceTree = "<group>"; };
-		BF6F647D19F3B61B009E0475 /* Ti.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Ti.wav; sourceTree = "<group>"; };
-		BF6F648819F3DFAE009E0475 /* SuperMarioBrosFull.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = SuperMarioBrosFull.mp3; sourceTree = "<group>"; };
 		BFADCF3119EA8A200061620A /* TheAmazingAudioEngine.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = TheAmazingAudioEngine.xcodeproj; path = "The Amazing Audio Engine/TheAmazingAudioEngine.xcodeproj"; sourceTree = "<group>"; };
 		BFADCF3A19EA8A5C0061620A /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		BFADCF3C19EA8A630061620A /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
@@ -158,8 +160,6 @@
 		BFC262BB19E66C73007535BB /* Dirty BitTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Dirty BitTests-Info.plist"; sourceTree = "<group>"; };
 		BFC262BD19E66C73007535BB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BFC262BF19E66C73007535BB /* Dirty_BitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dirty_BitTests.m; sourceTree = "<group>"; };
-		BFC262C919E66CA9007535BB /* UIButton+DBPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIButton+DBPad.h"; path = "../UIButton+DBPad.h"; sourceTree = "<group>"; };
-		BFC262CA19E66CA9007535BB /* UIButton+DBPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIButton+DBPad.m"; path = "../UIButton+DBPad.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,62 +222,62 @@
 			path = TPCircularBuffer;
 			sourceTree = "<group>";
 		};
-		BF6F643D19F3B545009E0475 /* DoubleBass */ = {
+		BF26825B19F7813F0073B50B /* Audio Files */ = {
 			isa = PBXGroup;
 			children = (
-				BF6F644019F3B545009E0475 /* DoubleBassC3.wav */,
-				BF6F644219F3B545009E0475 /* DoubleBassD3.wav */,
-				BF6F644319F3B545009E0475 /* DoubleBassE3.wav */,
-				BF6F644419F3B545009E0475 /* DoubleBassF3.wav */,
-				BF6F644519F3B545009E0475 /* DoubleBassG3.wav */,
-				BF6F643E19F3B545009E0475 /* DoubleBassA3.wav */,
-				BF6F643F19F3B545009E0475 /* DoubleBassB3.wav */,
-				BF6F644119F3B545009E0475 /* DoubleBassC4.wav */,
+				BF26825C19F7813F0073B50B /* DoReMi.mp3 */,
+				BF26825D19F7813F0073B50B /* DoubleBass */,
+				BF26826619F7813F0073B50B /* OdetoJoy.mp3 */,
+				BF26826719F7813F0073B50B /* Orchestra */,
+				BF26827019F7813F0073B50B /* SuperMarioBros */,
+			);
+			path = "Audio Files";
+			sourceTree = "<group>";
+		};
+		BF26825D19F7813F0073B50B /* DoubleBass */ = {
+			isa = PBXGroup;
+			children = (
+				BF26825E19F7813F0073B50B /* DoubleBassA3.wav */,
+				BF26825F19F7813F0073B50B /* DoubleBassB3.wav */,
+				BF26826019F7813F0073B50B /* DoubleBassC3.wav */,
+				BF26826119F7813F0073B50B /* DoubleBassC4.wav */,
+				BF26826219F7813F0073B50B /* DoubleBassD3.wav */,
+				BF26826319F7813F0073B50B /* DoubleBassE3.wav */,
+				BF26826419F7813F0073B50B /* DoubleBassF3.wav */,
+				BF26826519F7813F0073B50B /* DoubleBassG3.wav */,
 			);
 			path = DoubleBass;
 			sourceTree = "<group>";
 		};
-		BF6F646119F3B57C009E0475 /* SuperMarioBros */ = {
+		BF26826719F7813F0073B50B /* Orchestra */ = {
 			isa = PBXGroup;
 			children = (
-				BF6F646519F3B57C009E0475 /* Jump.wav */,
-				BF6F646919F3B57C009E0475 /* Stomp.wav */,
-				BF6F646319F3B57C009E0475 /* Coin.wav */,
-				BF6F646719F3B57C009E0475 /* PowerUp.wav */,
-				BF6F646219F3B57C009E0475 /* Bump.wav */,
-				BF6F646619F3B57C009E0475 /* MarioDie.wav */,
-				BF6F646419F3B57C009E0475 /* Flagpole.wav */,
-				BF6F646819F3B57C009E0475 /* StageClear.wav */,
-				BF6F648819F3DFAE009E0475 /* SuperMarioBrosFull.mp3 */,
-			);
-			path = SuperMarioBros;
-			sourceTree = "<group>";
-		};
-		BF6F647519F3B61B009E0475 /* Orchestra */ = {
-			isa = PBXGroup;
-			children = (
-				BF6F647619F3B61B009E0475 /* Do.wav */,
-				BF6F647B19F3B61B009E0475 /* Re.wav */,
-				BF6F647A19F3B61B009E0475 /* Mi.wav */,
-				BF6F647719F3B61B009E0475 /* Fa.wav */,
-				BF6F647C19F3B61B009E0475 /* So.wav */,
-				BF6F647919F3B61B009E0475 /* La.wav */,
-				BF6F647D19F3B61B009E0475 /* Ti.wav */,
-				BF6F647819F3B61B009E0475 /* HigherDo.wav */,
+				BF26826819F7813F0073B50B /* Do.wav */,
+				BF26826919F7813F0073B50B /* Fa.wav */,
+				BF26826A19F7813F0073B50B /* HigherDo.wav */,
+				BF26826B19F7813F0073B50B /* La.wav */,
+				BF26826C19F7813F0073B50B /* Mi.wav */,
+				BF26826D19F7813F0073B50B /* Re.wav */,
+				BF26826E19F7813F0073B50B /* So.wav */,
+				BF26826F19F7813F0073B50B /* Ti.wav */,
 			);
 			path = Orchestra;
 			sourceTree = "<group>";
 		};
-		BFADCF2C19EA83BA0061620A /* Audio */ = {
+		BF26827019F7813F0073B50B /* SuperMarioBros */ = {
 			isa = PBXGroup;
 			children = (
-				BF6F647519F3B61B009E0475 /* Orchestra */,
-				BF6F646119F3B57C009E0475 /* SuperMarioBros */,
-				BF6F643D19F3B545009E0475 /* DoubleBass */,
-				BF14BD4819ED69D700097FEA /* OdetoJoy.mp3 */,
-				BF6F643B19F3B53B009E0475 /* DoReMi.mp3 */,
+				BF26827119F7813F0073B50B /* Bump.wav */,
+				BF26827219F7813F0073B50B /* Coin.wav */,
+				BF26827319F7813F0073B50B /* Flagpole.wav */,
+				BF26827419F7813F0073B50B /* Jump.wav */,
+				BF26827519F7813F0073B50B /* MarioDie.wav */,
+				BF26827619F7813F0073B50B /* PowerUp.wav */,
+				BF26827719F7813F0073B50B /* StageClear.wav */,
+				BF26827819F7813F0073B50B /* Stomp.wav */,
+				BF26827919F7813F0073B50B /* SuperMarioBrosFull.mp3 */,
 			);
-			name = Audio;
+			path = SuperMarioBros;
 			sourceTree = "<group>";
 		};
 		BFADCF3219EA8A200061620A /* Products */ = {
@@ -293,7 +293,7 @@
 			children = (
 				BFADCF3119EA8A200061620A /* TheAmazingAudioEngine.xcodeproj */,
 				BF14BD4A19ED8F1600097FEA /* Modules */,
-				BFADCF2C19EA83BA0061620A /* Audio */,
+				BF26825B19F7813F0073B50B /* Audio Files */,
 				BFC2629719E66C73007535BB /* Dirty Bit */,
 				BFC262B919E66C73007535BB /* Dirty BitTests */,
 				BFC2629019E66C73007535BB /* Frameworks */,
@@ -333,6 +333,8 @@
 				BFC262A619E66C73007535BB /* Main_iPad.storyboard */,
 				BFC262A919E66C73007535BB /* ViewController.h */,
 				BFC262AA19E66C73007535BB /* ViewController.m */,
+				BF26829519F781870073B50B /* UIButton+DBPad.h */,
+				BF26829619F781870073B50B /* UIButton+DBPad.m */,
 				BFC262AC19E66C73007535BB /* Images.xcassets */,
 				BFC2629819E66C73007535BB /* Supporting Files */,
 			);
@@ -342,8 +344,6 @@
 		BFC2629819E66C73007535BB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				BFC262C919E66CA9007535BB /* UIButton+DBPad.h */,
-				BFC262CA19E66CA9007535BB /* UIButton+DBPad.m */,
 				BFC2629919E66C73007535BB /* Dirty Bit-Info.plist */,
 				BFC2629A19E66C73007535BB /* InfoPlist.strings */,
 				BFC2629D19E66C73007535BB /* main.m */,
@@ -466,38 +466,38 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF6F646C19F3B57C009E0475 /* Coin.wav in Resources */,
+				BF26828819F7813F0073B50B /* Mi.wav in Resources */,
+				BF26828D19F7813F0073B50B /* Coin.wav in Resources */,
+				BF26828B19F7813F0073B50B /* Ti.wav in Resources */,
+				BF26829119F7813F0073B50B /* PowerUp.wav in Resources */,
+				BF26829419F7813F0073B50B /* SuperMarioBrosFull.mp3 in Resources */,
 				BFC262A819E66C73007535BB /* Main_iPad.storyboard in Resources */,
-				BF6F647019F3B57C009E0475 /* PowerUp.wav in Resources */,
-				BF6F648419F3B61B009E0475 /* So.wav in Resources */,
-				BF6F648919F3DFAE009E0475 /* SuperMarioBrosFull.mp3 in Resources */,
-				BF6F644B19F3B545009E0475 /* DoubleBassE3.wav in Resources */,
-				BF6F648219F3B61B009E0475 /* Mi.wav in Resources */,
-				BF6F647119F3B57C009E0475 /* StageClear.wav in Resources */,
+				BF26829219F7813F0073B50B /* StageClear.wav in Resources */,
+				BF26828A19F7813F0073B50B /* So.wav in Resources */,
 				BFC262AD19E66C73007535BB /* Images.xcassets in Resources */,
-				BF6F648119F3B61B009E0475 /* La.wav in Resources */,
-				BF6F644619F3B545009E0475 /* DoubleBassA3.wav in Resources */,
-				BF6F647219F3B57C009E0475 /* Stomp.wav in Resources */,
+				BF26828719F7813F0073B50B /* La.wav in Resources */,
+				BF26829319F7813F0073B50B /* Stomp.wav in Resources */,
+				BF26828619F7813F0073B50B /* HigherDo.wav in Resources */,
+				BF26827A19F7813F0073B50B /* DoReMi.mp3 in Resources */,
+				BF26828119F7813F0073B50B /* DoubleBassF3.wav in Resources */,
+				BF26827B19F7813F0073B50B /* DoubleBassA3.wav in Resources */,
+				BF26828519F7813F0073B50B /* Fa.wav in Resources */,
+				BF26828419F7813F0073B50B /* Do.wav in Resources */,
+				BF26828919F7813F0073B50B /* Re.wav in Resources */,
 				BF14BD6319ED8F1600097FEA /* README.markdown in Resources */,
-				BF6F644C19F3B545009E0475 /* DoubleBassF3.wav in Resources */,
-				BF6F644D19F3B545009E0475 /* DoubleBassG3.wav in Resources */,
+				BF26827D19F7813F0073B50B /* DoubleBassC3.wav in Resources */,
+				BF26827C19F7813F0073B50B /* DoubleBassB3.wav in Resources */,
+				BF26828C19F7813F0073B50B /* Bump.wav in Resources */,
+				BF26828E19F7813F0073B50B /* Flagpole.wav in Resources */,
+				BF26827E19F7813F0073B50B /* DoubleBassC4.wav in Resources */,
+				BF26828019F7813F0073B50B /* DoubleBassE3.wav in Resources */,
 				BFC262A519E66C73007535BB /* Main_iPhone.storyboard in Resources */,
-				BF6F647F19F3B61B009E0475 /* Fa.wav in Resources */,
-				BF6F644A19F3B545009E0475 /* DoubleBassD3.wav in Resources */,
+				BF26829019F7813F0073B50B /* MarioDie.wav in Resources */,
+				BF26828F19F7813F0073B50B /* Jump.wav in Resources */,
 				BFC2629C19E66C73007535BB /* InfoPlist.strings in Resources */,
-				BF6F646B19F3B57C009E0475 /* Bump.wav in Resources */,
-				BF6F646D19F3B57C009E0475 /* Flagpole.wav in Resources */,
-				BF6F644719F3B545009E0475 /* DoubleBassB3.wav in Resources */,
-				BF6F644819F3B545009E0475 /* DoubleBassC3.wav in Resources */,
-				BF6F648019F3B61B009E0475 /* HigherDo.wav in Resources */,
-				BF6F646F19F3B57C009E0475 /* MarioDie.wav in Resources */,
-				BF6F647E19F3B61B009E0475 /* Do.wav in Resources */,
-				BF6F648319F3B61B009E0475 /* Re.wav in Resources */,
-				BF6F646E19F3B57C009E0475 /* Jump.wav in Resources */,
-				BF14BD4919ED69D700097FEA /* OdetoJoy.mp3 in Resources */,
-				BF6F643C19F3B53B009E0475 /* DoReMi.mp3 in Resources */,
-				BF6F644919F3B545009E0475 /* DoubleBassC4.wav in Resources */,
-				BF6F648519F3B61B009E0475 /* Ti.wav in Resources */,
+				BF26828219F7813F0073B50B /* DoubleBassG3.wav in Resources */,
+				BF26827F19F7813F0073B50B /* DoubleBassD3.wav in Resources */,
+				BF26828319F7813F0073B50B /* OdetoJoy.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -526,8 +526,8 @@
 				BF14BD5D19ED8F1600097FEA /* AEExpanderFilter.m in Sources */,
 				BFC2629E19E66C73007535BB /* main.m in Sources */,
 				BF14BD5F19ED8F1600097FEA /* AELimiterFilter.m in Sources */,
-				BFC262CB19E66CA9007535BB /* UIButton+DBPad.m in Sources */,
 				BF14BD6019ED8F1600097FEA /* AEMixerBuffer.m in Sources */,
+				BF26829719F781870073B50B /* UIButton+DBPad.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
