@@ -3,6 +3,10 @@ Dirty Bit
 
 Dirty Bit is expected to work as a [sampler (music)][1]. It is being implemented on iOS device with [The Amazing Audio Engine](http://theamazingaudioengine.com/) framework, and now is version `0.1`.
 
+Demo
+-
+[Watch the video demo](https://vimeo.com/122530490).
+
 Usage
 -
 
